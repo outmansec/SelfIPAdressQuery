@@ -19,7 +19,7 @@
 - 联网模式数据基于纯真 IP 库 + ip2region + GeoIP2 整合.
 - Self.db是基于sqllite构建的数据库,表SelfIP为自有IP地址,表SelfIPSubnet为自有IP段.
 - 自有IP地址优先级高于自有IP段,如果查询IP地址两者均存在匹配,那么会优先显示自有IP地址.
-- 软件最低运行环境 Java 1.8.
+- 软件运行环境 Java 1.8.
 
 ## 运行图
 
