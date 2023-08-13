@@ -20,11 +20,12 @@
 - Self.db是基于sqllite构建的数据库,表SelfIP为自有IP地址,表SelfIPSubnet为自有IP段.
 - 自有IP地址优先级高于自有IP段,如果查询IP地址两者均存在匹配,那么会优先显示自有IP地址.
 - 软件运行环境 Java 1.8.
-
-## 运行图
-<img width="764" alt="image" src="https://github.com/outmansec/SelfIPAdressQuery/assets/61048948/7fcd7938-2a1d-4ff3-8f8d-8cfccbe77bf8">
-
+  
 ## 更新记录
 
 2023年8月13日 添加错误行提示.
+## 运行图
+<img width="764" alt="image" src="https://github.com/outmansec/SelfIPAdressQuery/assets/61048948/7fcd7938-2a1d-4ff3-8f8d-8cfccbe77bf8">
+
+
 
