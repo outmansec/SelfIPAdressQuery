@@ -25,7 +25,8 @@
 
 2023年8月13日 添加错误行提示.
 ## 运行图
-<img width="764" alt="image" src="https://github.com/outmansec/SelfIPAdressQuery/assets/61048948/7fcd7938-2a1d-4ff3-8f8d-8cfccbe77bf8">
+<img width="763" alt="image" src="https://github.com/outmansec/SelfIPAdressQuery/assets/61048948/ad5259f7-a8fc-48aa-8280-4e4fdbf75d2e">
+
 
 
 
