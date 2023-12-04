@@ -27,8 +27,11 @@
 1. 支持自定义自有数据;
 2. 修改自有数据库结构,删除无用字段;
 3. 新版本“ self.db”数据库与旧版本不兼容,如果你想使用旧数据库请删除“ziyou”字段;
+   
+**0.2**
 
-2023年8月13日 添加错误行提示.
+1. 添加错误行提示;
+   
 ## 运行图
 <img width="763" alt="image" src="https://github.com/outmansec/SelfIPAdressQuery/assets/61048948/ad5259f7-a8fc-48aa-8280-4e4fdbf75d2e">
 
