@@ -1,6 +1,9 @@
-# SelfIPAdressQuery
+# SelfIPAdressQuery[停止更新]
 
 一款基于javafx的自有IP地址查询工具
+
+**已停止更新，请前往新项目**
+https://github.com/outmansec/SelfIPManager
 
 ## 使用场景
 
